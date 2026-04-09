@@ -1,0 +1,221 @@
+PO_Number,Date,Vendor_Code,Vendor_Name,Category,Region,Contract_Type,Contract_Value,On_Time_Delivery_Pct,Quality_Score,Safety_Compliance_Pct,Response_Time_Hours,Defect_Rate_Pct,Cost_Variance_Pct
+PO000001,2023-01-01,V1467,OceanFreight Services,Logistics & Transportation,Gulf Coast,Fixed Price,385960.49,87.6,9.0,97.8,9.1,1.07,-6.92
+PO000002,2023-01-02,V1428,ProTech Safety,Safety & PPE,North Sea,Spot Purchase,113688.78,85.0,6.1,98.4,63.5,2.72,17.01
+PO000003,2023-01-07,V1311,DeepCore Industries,Drilling Equipment,Asia Pacific,Spot Purchase,543394.56,89.6,8.9,89.2,46.1,3.42,-3.96
+PO000004,2023-01-09,V1103,SafeGuard Supply Co,Safety & PPE,West Africa,Fixed Price,173076.33,81.7,9.7,99.0,12.4,1.18,16.79
+PO000005,2023-01-11,V1112,PetroMaintenance Corp,Maintenance & Repair,Asia Pacific,Spot Purchase,146569.09,86.6,9.1,94.1,7.3,1.78,14.43
+PO000006,2023-01-13,V1110,Equipment Care Plus,Maintenance & Repair,Asia Pacific,Framework Agreement,157781.71,76.2,6.5,88.6,12.9,1.06,-1.27
+PO000007,2023-01-14,V1444,TransGlobal Logistics,Logistics & Transportation,Asia Pacific,Fixed Price,228290.02,97.5,9.6,95.5,26.5,2.32,19.35
+PO000008,2023-01-17,V1196,PetroMax Equipment,Drilling Equipment,Middle East,Time & Material,1195430.14,83.5,6.4,84.0,15.9,1.33,10.78
+PO000009,2023-01-22,V1112,PetroMaintenance Corp,Maintenance & Repair,Middle East,Fixed Price,89936.12,84.7,9.2,90.4,22.3,2.54,-1.27
+PO000010,2023-01-22,V1110,Equipment Care Plus,Maintenance & Repair,West Africa,Framework Agreement,104615.85,69.1,,99.4,7.4,0.83,-5.87
+PO000011,2023-01-22,V1451,DrillTech Solutions,Drilling Equipment,North Sea,Spot Purchase,898825.35,98.2,7.4,92.9,18.3,4.12,11.2
+PO000012,2023-01-25,V1291,Advanced Fluids Ltd,Chemical Supplies,West Africa,Spot Purchase,324194.19,74.9,8.0,80.9,16.9,5.85,16.94
+PO000013,2023-01-29,V1291,Advanced Fluids Ltd,Chemical Supplies,Gulf Coast,Spot Purchase,308348.9,82.2,6.9,98.7,14.8,6.64,11.36
+PO000014,2023-01-30,V1167,GeoPetro Engineering,Engineering Services,West Africa,Time & Material,422213.32,95.5,9.5,95.9,18.6,0.39,-7.33
+PO000015,2023-02-02,V1451,DrillTech Solutions,Drilling Equipment,Gulf Coast,Spot Purchase,895696.79,78.4,6.4,96.2,13.1,1.91,12.47
+PO000016,2023-02-03,V1467,OceanFreight Services,Logistics & Transportation,West Africa,Framework Agreement,331805.54,94.8,6.3,98.5,26.4,1.0,7.74
+PO000017,2023-02-07,V1466,PetroChemical Supply,Chemical Supplies,West Africa,Framework Agreement,248244.38,74.1,6.1,85.8,28.1,,8.02
+PO000018,2023-02-09,V1110,Equipment Care Plus,Maintenance & Repair,North Sea,Framework Agreement,188968.28,77.6,8.4,94.9,6.4,5.08,-17.53
+PO000019,2023-02-14,V1128,Continental Carriers,Logistics & Transportation,Asia Pacific,Time & Material,203932.6,81.5,6.1,98.3,48.0,1.29,-8.26
+PO000020,2023-02-15,V1196,PetroMax Equipment,Drilling Equipment,Gulf Coast,Fixed Price,561110.26,97.9,7.6,81.9,15.4,6.34,15.24
+PO000021,2023-02-23,V1128,Continental Carriers,Logistics & Transportation,Middle East,Spot Purchase,386158.83,66.7,8.5,98.6,36.2,3.11,17.49
+PO000022,2023-02-23,V1067,OilField Safety Partners,Safety & PPE,Gulf Coast,Spot Purchase,65641.49,97.9,9.2,86.8,19.2,1.07,-9.11
+PO000023,2023-02-28,V1451,DrillTech Solutions,Drilling Equipment,Asia Pacific,Spot Purchase,466114.14,76.3,9.1,97.5,17.7,2.19,8.16
+PO000024,2023-03-03,V1067,OilField Safety Partners,Safety & PPE,North Sea,Spot Purchase,37644.35,76.6,9.2,100.0,11.0,0.89,14.03
+PO000025,2023-03-05,V1138,Reservoir Solutions Inc,Engineering Services,Asia Pacific,Framework Agreement,198493.79,95.8,,98.8,44.7,5.61,-12.71
+PO000026,2023-03-06,V1167,GeoPetro Engineering,Engineering Services,West Africa,Spot Purchase,549922.14,81.5,9.1,93.2,8.6,0.17,-9.67
+PO000027,2023-03-07,V1466,PetroChemical Supply,Chemical Supplies,Middle East,Spot Purchase,382316.51,73.6,,96.9,67.3,0.73,14.92
+PO000028,2023-03-13,V1291,Advanced Fluids Ltd,Chemical Supplies,Asia Pacific,Fixed Price,281618.52,91.4,8.5,96.6,38.7,2.97,13.28
+PO000029,2023-03-17,V1291,Advanced Fluids Ltd,Chemical Supplies,Asia Pacific,Framework Agreement,179472.77,76.0,6.2,81.9,59.3,6.03,3.22
+PO000030,2023-03-17,V1428,ProTech Safety,Safety & PPE,West Africa,Time & Material,116101.65,85.2,8.0,91.7,48.1,4.2,-3.27
+PO000031,2023-03-22,V1138,Reservoir Solutions Inc,Engineering Services,Middle East,Spot Purchase,264696.06,70.4,6.5,95.5,20.2,0.32,-9.85
+PO000032,2023-03-26,V1428,ProTech Safety,Safety & PPE,North Sea,Time & Material,161233.34,87.1,8.7,90.8,71.2,2.02,0.36
+PO000033,2023-03-26,V1091,FieldService Solutions,Maintenance & Repair,Gulf Coast,Spot Purchase,310789.19,92.4,9.9,88.9,2.3,0.15,19.01
+PO000034,2023-03-31,V1291,Advanced Fluids Ltd,Chemical Supplies,Asia Pacific,Spot Purchase,391796.19,95.6,8.8,93.3,10.1,0.51,0.71
+PO000035,2023-03-31,V1196,PetroMax Equipment,Drilling Equipment,North Sea,Framework Agreement,1154483.02,83.9,,84.1,6.1,4.47,14.19
+PO000036,2023-04-01,V1138,Reservoir Solutions Inc,Engineering Services,Gulf Coast,Time & Material,269243.1,80.7,9.2,82.3,7.2,2.04,-1.86
+PO000037,2023-04-01,V1103,SafeGuard Supply Co,Safety & PPE,Gulf Coast,Fixed Price,101782.69,91.1,9.7,100.0,36.6,0.16,-13.2
+PO000038,2023-04-05,V1138,Reservoir Solutions Inc,Engineering Services,Middle East,Framework Agreement,191019.88,88.9,8.0,80.7,13.0,2.3,4.6
+PO000039,2023-04-06,V1300,ChemCore Industries,Chemical Supplies,Asia Pacific,Spot Purchase,435350.32,80.2,7.0,89.5,22.2,2.5,12.18
+PO000040,2023-04-15,V1138,Reservoir Solutions Inc,Engineering Services,West Africa,Framework Agreement,433632.52,97.0,7.8,82.0,42.3,6.75,-6.6
+PO000041,2023-04-18,V1451,DrillTech Solutions,Drilling Equipment,West Africa,Spot Purchase,877079.64,79.5,7.6,84.7,34.7,6.46,19.22
+PO000042,2023-04-21,V1443,Well Design Partners,Engineering Services,North Sea,Time & Material,373789.19,89.7,7.0,86.1,10.8,3.63,6.59
+PO000043,2023-04-22,V1300,ChemCore Industries,Chemical Supplies,Middle East,Time & Material,344445.08,74.1,7.3,93.3,18.3,0.32,-6.48
+PO000044,2023-05-03,V1112,PetroMaintenance Corp,Maintenance & Repair,Gulf Coast,Fixed Price,235754.22,80.9,6.4,97.8,7.2,2.45,0.77
+PO000045,2023-05-10,V1311,DeepCore Industries,Drilling Equipment,West Africa,Framework Agreement,633204.42,91.5,8.4,86.0,33.6,3.53,-14.88
+PO000046,2023-05-10,V1428,ProTech Safety,Safety & PPE,North Sea,Time & Material,114764.46,93.6,6.4,96.1,39.9,6.13,17.41
+PO000047,2023-05-18,V1466,PetroChemical Supply,Chemical Supplies,Gulf Coast,Framework Agreement,200599.73,82.4,6.9,83.0,21.1,1.52,3.11
+PO000048,2023-05-19,V1112,PetroMaintenance Corp,Maintenance & Repair,North Sea,Spot Purchase,153727.18,76.8,8.2,81.9,11.9,0.2,-5.72
+PO000049,2023-05-20,V1444,TransGlobal Logistics,Logistics & Transportation,West Africa,Spot Purchase,397082.62,83.1,9.9,99.2,52.9,1.07,3.45
+PO000050,2023-05-21,V1091,FieldService Solutions,Maintenance & Repair,West Africa,Time & Material,111731.74,72.7,6.8,89.1,5.2,6.22,4.19
+PO000051,2023-05-26,V1128,Continental Carriers,Logistics & Transportation,Middle East,Spot Purchase,251065.04,79.3,8.8,84.6,38.4,2.7,-6.97
+PO000052,2023-05-28,V1466,PetroChemical Supply,Chemical Supplies,Gulf Coast,Spot Purchase,234709.39,99.6,6.2,80.5,16.5,2.17,2.2
+PO000053,2023-05-30,V1300,ChemCore Industries,Chemical Supplies,North Sea,Framework Agreement,413291.35,88.7,6.2,91.3,24.6,6.25,3.12
+PO000054,2023-06-07,V1110,Equipment Care Plus,Maintenance & Repair,Middle East,Fixed Price,323477.54,75.0,9.8,89.1,18.4,2.48,-13.06
+PO000055,2023-06-12,V1466,PetroChemical Supply,Chemical Supplies,Gulf Coast,Framework Agreement,490719.69,78.3,6.8,80.4,69.4,0.58,-1.17
+PO000056,2023-06-13,V1067,OilField Safety Partners,Safety & PPE,West Africa,Time & Material,117784.58,78.4,8.7,91.3,63.3,1.12,1.47
+PO000057,2023-06-17,V1103,SafeGuard Supply Co,Safety & PPE,Gulf Coast,Framework Agreement,137758.0,98.9,6.4,89.0,56.1,2.96,6.53
+PO000058,2023-06-17,V1443,Well Design Partners,Engineering Services,Middle East,Fixed Price,261333.23,72.2,9.6,88.2,23.5,2.5,-7.91
+PO000059,2023-06-20,V1138,Reservoir Solutions Inc,Engineering Services,West Africa,Framework Agreement,481070.88,79.6,8.4,82.9,23.1,0.4,-7.38
+PO000060,2023-06-24,V1451,DrillTech Solutions,Drilling Equipment,North Sea,Time & Material,1072531.46,78.2,7.1,91.6,20.8,5.99,17.24
+PO000061,2023-07-01,V1443,Well Design Partners,Engineering Services,North Sea,Time & Material,310466.16,96.6,7.5,87.8,28.7,7.27,3.81
+PO000062,2023-07-05,V1167,GeoPetro Engineering,Engineering Services,Asia Pacific,Spot Purchase,263585.59,80.6,8.4,93.6,12.1,3.5,-3.04
+PO000063,2023-07-13,V1112,PetroMaintenance Corp,Maintenance & Repair,Asia Pacific,Fixed Price,176411.86,79.1,9.8,82.6,16.2,3.52,
+PO000064,2023-07-17,V1300,ChemCore Industries,Chemical Supplies,West Africa,Framework Agreement,321063.24,85.0,8.0,89.6,71.1,4.98,-15.98
+PO000065,2023-07-28,V1167,GeoPetro Engineering,Engineering Services,North Sea,Spot Purchase,529865.81,80.8,8.3,84.9,7.7,7.76,
+PO000066,2023-07-31,V1467,OceanFreight Services,Logistics & Transportation,Middle East,Fixed Price,156499.49,97.8,6.3,94.8,25.9,6.18,9.21
+PO000067,2023-08-19,V1467,OceanFreight Services,Logistics & Transportation,Asia Pacific,Time & Material,257825.79,87.1,6.3,95.4,61.5,0.81,1.58
+PO000068,2023-08-23,V1167,GeoPetro Engineering,Engineering Services,Asia Pacific,Time & Material,775289.37,93.2,7.1,97.1,29.0,4.98,5.27
+PO000069,2023-08-27,V1112,PetroMaintenance Corp,Maintenance & Repair,Gulf Coast,Framework Agreement,306762.31,76.9,7.6,94.6,16.7,2.71,-15.58
+PO000070,2023-08-29,V1291,Advanced Fluids Ltd,Chemical Supplies,Asia Pacific,Framework Agreement,313289.83,89.0,7.3,90.0,49.1,7.49,12.93
+PO000071,2023-09-07,V1091,FieldService Solutions,Maintenance & Repair,Gulf Coast,Fixed Price,196646.41,96.6,7.8,84.7,10.6,2.58,11.53
+PO000072,2023-09-09,V1291,Advanced Fluids Ltd,Chemical Supplies,Asia Pacific,Fixed Price,390181.65,77.7,8.7,82.8,64.7,0.56,8.49
+PO000073,2023-09-20,V1444,TransGlobal Logistics,Logistics & Transportation,North Sea,Fixed Price,111725.79,99.1,8.3,85.6,16.8,7.42,0.3
+PO000074,2023-09-26,V1167,GeoPetro Engineering,Engineering Services,Asia Pacific,Spot Purchase,391119.37,94.3,8.7,96.9,16.9,2.68,-7.46
+PO000075,2023-09-26,V1291,Advanced Fluids Ltd,Chemical Supplies,Middle East,Time & Material,225428.21,78.0,9.3,88.4,54.7,1.8,-9.44
+PO000076,2023-09-29,V1067,OilField Safety Partners,Safety & PPE,West Africa,Time & Material,168350.98,75.1,,95.7,70.1,1.77,-15.0
+PO000077,2023-09-30,V1110,Equipment Care Plus,Maintenance & Repair,Asia Pacific,Fixed Price,116087.4,86.5,6.7,96.3,5.3,1.16,18.69
+PO000078,2023-10-02,V1300,ChemCore Industries,Chemical Supplies,Gulf Coast,Fixed Price,196882.52,98.7,8.7,98.9,57.4,2.11,-2.45
+PO000079,2023-10-06,V1443,Well Design Partners,Engineering Services,Middle East,Time & Material,729717.5,78.3,9.3,90.7,11.6,3.61,12.51
+PO000080,2023-10-06,V1466,PetroChemical Supply,Chemical Supplies,Asia Pacific,Spot Purchase,387766.99,95.9,9.2,95.4,59.4,1.89,-3.61
+PO000081,2023-10-22,V1451,DrillTech Solutions,Drilling Equipment,Middle East,Spot Purchase,1156232.35,91.2,9.8,98.1,40.0,3.78,1.73
+PO000082,2023-10-26,V1291,Advanced Fluids Ltd,Chemical Supplies,West Africa,Framework Agreement,141507.06,79.3,8.1,96.6,62.7,6.2,12.37
+PO000083,2023-10-26,V1443,Well Design Partners,Engineering Services,North Sea,Fixed Price,153322.23,89.0,7.8,86.5,21.2,7.77,16.1
+PO000084,2023-11-08,V1091,FieldService Solutions,Maintenance & Repair,West Africa,Time & Material,339675.98,85.0,9.7,93.4,10.0,,-13.12
+PO000085,2023-11-09,V1428,ProTech Safety,Safety & PPE,Gulf Coast,Time & Material,82706.98,84.2,,93.0,18.8,1.91,14.92
+PO000086,2023-11-10,V1167,GeoPetro Engineering,Engineering Services,Asia Pacific,Fixed Price,382343.05,77.1,7.1,84.3,27.4,7.2,
+PO000087,2023-11-19,V1467,OceanFreight Services,Logistics & Transportation,Middle East,Spot Purchase,167172.19,77.6,9.2,98.7,37.4,1.64,-14.32
+PO000088,2023-11-20,V1467,OceanFreight Services,Logistics & Transportation,Asia Pacific,Fixed Price,143153.38,78.4,8.5,93.9,31.7,6.92,
+PO000089,2023-11-26,V1443,Well Design Partners,Engineering Services,Asia Pacific,Time & Material,738770.25,83.2,7.1,98.3,36.3,2.0,-5.0
+PO000090,2023-11-27,V1067,OilField Safety Partners,Safety & PPE,West Africa,Framework Agreement,176687.91,82.1,8.0,100.0,49.3,7.18,-0.59
+PO000091,2023-11-29,V1112,PetroMaintenance Corp,Maintenance & Repair,Middle East,Framework Agreement,94165.15,74.5,6.6,93.5,9.9,0.55,7.8
+PO000092,2023-12-07,V1443,Well Design Partners,Engineering Services,West Africa,Fixed Price,609091.15,97.2,,99.8,27.0,0.72,7.58
+PO000093,2023-12-08,V1451,DrillTech Solutions,Drilling Equipment,Middle East,Fixed Price,737341.42,93.2,9.4,86.4,10.1,3.71,15.07
+PO000094,2023-12-09,V1443,Well Design Partners,Engineering Services,Gulf Coast,Fixed Price,508169.65,90.4,7.7,95.1,23.3,4.19,0.9
+PO000095,2023-12-09,V1112,PetroMaintenance Corp,Maintenance & Repair,North Sea,Fixed Price,316062.44,90.0,7.6,95.6,21.7,3.87,19.42
+PO000096,2023-12-11,V1311,DeepCore Industries,Drilling Equipment,West Africa,Framework Agreement,701787.27,81.0,7.7,95.1,40.3,3.05,-17.1
+PO000097,2023-12-12,V1110,Equipment Care Plus,Maintenance & Repair,Gulf Coast,Framework Agreement,320604.51,79.6,7.6,94.4,18.1,4.19,-9.2
+PO000098,2023-12-12,V1428,ProTech Safety,Safety & PPE,West Africa,Framework Agreement,142137.38,73.9,6.8,82.6,43.3,4.6,10.59
+PO000099,2023-12-12,V1112,PetroMaintenance Corp,Maintenance & Repair,West Africa,Framework Agreement,77983.38,83.2,7.6,82.7,6.1,2.24,12.47
+PO000100,2023-12-15,V1300,ChemCore Industries,Chemical Supplies,Middle East,Framework Agreement,306260.7,73.7,9.4,89.9,66.2,2.15,-9.77
+PO000101,2023-12-15,V1291,Advanced Fluids Ltd,Chemical Supplies,Gulf Coast,Fixed Price,149040.34,90.5,9.2,81.1,57.4,0.51,7.8
+PO000102,2023-12-18,V1112,PetroMaintenance Corp,Maintenance & Repair,Middle East,Fixed Price,63384.38,90.2,7.4,98.4,8.0,2.98,5.24
+PO000103,2023-12-18,V1196,PetroMax Equipment,Drilling Equipment,Middle East,Fixed Price,400897.97,90.8,7.5,95.5,11.5,2.72,-8.35
+PO000104,2023-12-23,V1291,Advanced Fluids Ltd,Chemical Supplies,Asia Pacific,Framework Agreement,201775.73,84.2,,90.6,11.4,3.11,-6.9
+PO000105,2023-12-24,V1428,ProTech Safety,Safety & PPE,Gulf Coast,Fixed Price,170359.14,80.1,,87.3,55.9,2.14,2.67
+PO000106,2023-12-27,V1428,ProTech Safety,Safety & PPE,Gulf Coast,Spot Purchase,146126.68,80.6,6.8,83.9,12.7,5.1,14.51
+PO000107,2023-12-27,V1466,PetroChemical Supply,Chemical Supplies,West Africa,Framework Agreement,234419.58,68.9,8.6,90.2,25.8,2.15,3.46
+PO000108,2023-12-30,V1466,PetroChemical Supply,Chemical Supplies,West Africa,Fixed Price,226418.03,78.4,7.5,82.5,34.2,,-8.9
+PO000109,2024-01-08,V1110,Equipment Care Plus,Maintenance & Repair,Asia Pacific,Time & Material,182011.7,93.9,8.4,93.2,17.6,6.51,1.61
+PO000110,2024-01-13,V1466,PetroChemical Supply,Chemical Supplies,Asia Pacific,Framework Agreement,318048.13,88.1,9.5,93.2,56.0,3.01,-14.44
+PO000111,2024-01-13,V1138,Reservoir Solutions Inc,Engineering Services,Gulf Coast,Spot Purchase,610942.91,99.9,10.0,95.5,8.5,2.47,15.33
+PO000112,2024-01-17,V1091,FieldService Solutions,Maintenance & Repair,Gulf Coast,Framework Agreement,101987.9,85.2,6.2,80.8,21.7,3.33,-16.98
+PO000113,2024-01-19,V1428,ProTech Safety,Safety & PPE,North Sea,Framework Agreement,110746.28,92.4,9.1,99.8,28.8,2.52,0.44
+PO000114,2024-01-22,V1444,TransGlobal Logistics,Logistics & Transportation,Middle East,Spot Purchase,211103.39,90.8,6.7,87.4,69.9,2.19,9.36
+PO000115,2024-01-22,V1110,Equipment Care Plus,Maintenance & Repair,Gulf Coast,Framework Agreement,101913.0,76.4,7.6,89.8,16.2,5.97,-11.35
+PO000116,2024-01-23,V1466,PetroChemical Supply,Chemical Supplies,Middle East,Spot Purchase,128228.44,72.5,7.9,91.6,64.6,3.95,-7.28
+PO000117,2024-01-24,V1112,PetroMaintenance Corp,Maintenance & Repair,West Africa,Spot Purchase,144481.73,73.7,8.0,90.4,8.6,0.05,3.59
+PO000118,2024-01-31,V1196,PetroMax Equipment,Drilling Equipment,West Africa,Fixed Price,1195065.52,81.0,8.8,84.9,27.4,0.4,6.29
+PO000119,2024-02-01,V1428,ProTech Safety,Safety & PPE,West Africa,Fixed Price,108323.93,88.6,9.7,89.7,12.8,3.6,
+PO000120,2024-02-01,V1451,DrillTech Solutions,Drilling Equipment,Middle East,Fixed Price,493507.52,98.8,7.2,95.2,21.4,4.9,19.65
+PO000121,2024-02-03,V1428,ProTech Safety,Safety & PPE,North Sea,Framework Agreement,42761.76,90.9,6.2,91.4,61.0,7.04,-4.78
+PO000122,2024-02-05,V1112,PetroMaintenance Corp,Maintenance & Repair,West Africa,Framework Agreement,172031.1,79.5,7.6,87.4,21.3,2.18,-10.95
+PO000123,2024-02-12,V1196,PetroMax Equipment,Drilling Equipment,Gulf Coast,Time & Material,734004.19,79.2,7.5,86.8,25.9,1.8,12.08
+PO000124,2024-02-18,V1167,GeoPetro Engineering,Engineering Services,Middle East,Fixed Price,580479.32,91.2,7.2,83.6,14.1,5.75,-12.4
+PO000125,2024-02-20,V1291,Advanced Fluids Ltd,Chemical Supplies,West Africa,Framework Agreement,460218.01,89.1,9.8,94.4,30.6,1.29,-19.97
+PO000126,2024-02-22,V1311,DeepCore Industries,Drilling Equipment,Middle East,Time & Material,342529.31,73.7,9.2,91.0,39.0,0.66,-6.4
+PO000127,2024-02-29,V1291,Advanced Fluids Ltd,Chemical Supplies,Gulf Coast,Fixed Price,481043.58,99.3,8.7,84.4,45.2,1.81,-13.98
+PO000128,2024-03-05,V1443,Well Design Partners,Engineering Services,Asia Pacific,Framework Agreement,417274.94,94.5,8.1,95.2,45.7,1.97,
+PO000129,2024-03-05,V1300,ChemCore Industries,Chemical Supplies,Gulf Coast,Spot Purchase,446070.04,90.2,8.9,92.5,49.0,2.65,-1.06
+PO000130,2024-03-06,V1428,ProTech Safety,Safety & PPE,Middle East,Fixed Price,84704.63,80.5,9.2,93.8,61.1,3.47,12.75
+PO000131,2024-03-15,V1091,FieldService Solutions,Maintenance & Repair,North Sea,Time & Material,291428.93,99.3,9.1,90.3,15.5,1.53,11.82
+PO000132,2024-03-16,V1128,Continental Carriers,Logistics & Transportation,Gulf Coast,Spot Purchase,117533.0,91.6,9.0,84.4,66.2,2.88,4.4
+PO000133,2024-03-18,V1428,ProTech Safety,Safety & PPE,Middle East,Framework Agreement,138370.0,83.7,7.0,99.8,55.1,0.75,
+PO000134,2024-03-19,V1138,Reservoir Solutions Inc,Engineering Services,Asia Pacific,Framework Agreement,430261.91,79.7,6.3,84.4,35.8,1.26,-1.99
+PO000135,2024-03-20,V1466,PetroChemical Supply,Chemical Supplies,North Sea,Time & Material,348371.38,95.3,9.5,98.8,49.6,0.2,-7.44
+PO000136,2024-03-20,V1466,PetroChemical Supply,Chemical Supplies,Gulf Coast,Time & Material,206201.56,79.2,6.9,89.0,38.8,4.35,-11.6
+PO000137,2024-03-22,V1451,DrillTech Solutions,Drilling Equipment,Middle East,Fixed Price,1196160.01,83.4,7.2,82.4,10.6,7.47,5.73
+PO000138,2024-03-31,V1112,PetroMaintenance Corp,Maintenance & Repair,North Sea,Framework Agreement,152731.16,95.2,6.5,98.9,19.5,5.36,7.25
+PO000139,2024-04-04,V1451,DrillTech Solutions,Drilling Equipment,West Africa,Time & Material,920530.54,83.8,9.3,89.3,23.8,3.75,-10.66
+PO000140,2024-04-05,V1451,DrillTech Solutions,Drilling Equipment,Asia Pacific,Time & Material,349438.19,89.8,8.2,90.4,32.8,1.68,-7.18
+PO000141,2024-04-06,V1128,Continental Carriers,Logistics & Transportation,Asia Pacific,Time & Material,85873.13,77.4,6.9,81.6,11.3,5.01,-9.19
+PO000142,2024-04-10,V1466,PetroChemical Supply,Chemical Supplies,Gulf Coast,Fixed Price,111960.26,84.3,7.4,94.6,16.8,5.9,10.79
+PO000143,2024-04-12,V1300,ChemCore Industries,Chemical Supplies,West Africa,Spot Purchase,468624.38,90.9,7.5,91.9,8.8,4.14,2.64
+PO000144,2024-04-12,V1444,TransGlobal Logistics,Logistics & Transportation,West Africa,Framework Agreement,358162.16,88.5,6.8,96.7,27.2,2.6,
+PO000145,2024-04-17,V1311,DeepCore Industries,Drilling Equipment,Gulf Coast,Spot Purchase,724272.67,84.2,10.0,81.5,18.7,1.39,-5.03
+PO000146,2024-04-25,V1467,OceanFreight Services,Logistics & Transportation,Gulf Coast,Spot Purchase,392334.74,87.4,6.3,82.8,14.5,4.55,-9.54
+PO000147,2024-04-28,V1138,Reservoir Solutions Inc,Engineering Services,Middle East,Spot Purchase,229489.76,85.1,7.7,89.5,38.4,6.69,-11.75
+PO000148,2024-05-03,V1110,Equipment Care Plus,Maintenance & Repair,Middle East,Spot Purchase,152733.98,79.9,9.3,83.9,3.4,3.84,-3.82
+PO000149,2024-05-09,V1091,FieldService Solutions,Maintenance & Repair,Middle East,Spot Purchase,277264.4,88.3,6.9,83.0,15.7,,0.68
+PO000150,2024-05-10,V1128,Continental Carriers,Logistics & Transportation,West Africa,Framework Agreement,108249.4,83.4,8.2,91.9,31.8,0.94,9.47
+PO000151,2024-05-12,V1291,Advanced Fluids Ltd,Chemical Supplies,Asia Pacific,Fixed Price,118436.01,90.7,8.9,99.1,11.0,2.75,-13.91
+PO000152,2024-05-13,V1091,FieldService Solutions,Maintenance & Repair,Gulf Coast,Time & Material,285288.99,94.2,9.7,93.3,2.3,1.84,2.3
+PO000153,2024-05-21,V1443,Well Design Partners,Engineering Services,North Sea,Fixed Price,167937.0,99.3,7.6,84.5,45.6,0.78,0.49
+PO000154,2024-05-27,V1167,GeoPetro Engineering,Engineering Services,North Sea,Time & Material,250438.23,77.5,7.9,91.1,37.7,1.87,19.49
+PO000155,2024-05-28,V1451,DrillTech Solutions,Drilling Equipment,Middle East,Time & Material,421986.1,79.7,10.0,80.1,43.4,3.7,2.98
+PO000156,2024-06-02,V1067,OilField Safety Partners,Safety & PPE,West Africa,Fixed Price,109114.94,77.2,,82.1,66.7,3.3,9.48
+PO000157,2024-06-06,V1167,GeoPetro Engineering,Engineering Services,North Sea,Spot Purchase,797503.24,90.5,10.0,89.9,15.9,0.06,1.05
+PO000158,2024-06-06,V1091,FieldService Solutions,Maintenance & Repair,Gulf Coast,Spot Purchase,251438.24,79.9,6.4,88.5,20.4,4.07,-3.64
+PO000159,2024-06-09,V1110,Equipment Care Plus,Maintenance & Repair,Middle East,Time & Material,72945.17,68.1,8.3,80.3,17.3,3.19,-0.63
+PO000160,2024-06-11,V1311,DeepCore Industries,Drilling Equipment,North Sea,Fixed Price,1127474.89,84.4,7.1,93.0,18.7,3.73,17.31
+PO000161,2024-06-13,V1110,Equipment Care Plus,Maintenance & Repair,West Africa,Spot Purchase,168935.46,82.9,8.4,80.2,10.5,5.36,-5.63
+PO000162,2024-06-13,V1291,Advanced Fluids Ltd,Chemical Supplies,Gulf Coast,Fixed Price,372292.2,77.9,6.9,82.1,56.8,2.79,-6.33
+PO000163,2024-06-15,V1067,OilField Safety Partners,Safety & PPE,Asia Pacific,Fixed Price,165394.13,87.2,7.0,82.0,67.5,5.33,-8.37
+PO000164,2024-06-17,V1110,Equipment Care Plus,Maintenance & Repair,Gulf Coast,Time & Material,233641.86,84.6,7.1,89.9,10.1,3.99,7.16
+PO000165,2024-06-18,V1428,ProTech Safety,Safety & PPE,Gulf Coast,Spot Purchase,179862.31,86.7,9.4,88.0,71.1,3.99,-6.86
+PO000166,2024-06-18,V1428,ProTech Safety,Safety & PPE,Middle East,Spot Purchase,144010.59,78.7,8.9,87.9,54.3,0.57,-13.16
+PO000167,2024-06-23,V1467,OceanFreight Services,Logistics & Transportation,Gulf Coast,Time & Material,335303.48,82.0,8.7,82.8,12.1,2.64,-3.01
+PO000168,2024-06-28,V1444,TransGlobal Logistics,Logistics & Transportation,North Sea,Time & Material,273066.2,95.7,7.2,84.2,13.2,0.84,19.59
+PO000169,2024-07-01,V1110,Equipment Care Plus,Maintenance & Repair,North Sea,Spot Purchase,85413.4,94.4,7.7,85.8,17.3,6.27,-13.43
+PO000170,2024-07-02,V1128,Continental Carriers,Logistics & Transportation,Asia Pacific,Time & Material,391510.67,82.8,6.6,99.8,21.1,5.27,-2.62
+PO000171,2024-07-03,V1138,Reservoir Solutions Inc,Engineering Services,North Sea,Framework Agreement,422430.22,86.6,6.7,86.7,11.9,0.35,-5.78
+PO000172,2024-07-03,V1128,Continental Carriers,Logistics & Transportation,Gulf Coast,Time & Material,247600.43,79.6,9.6,82.4,60.9,2.98,
+PO000173,2024-07-04,V1428,ProTech Safety,Safety & PPE,North Sea,Framework Agreement,179073.81,97.4,6.5,91.2,69.5,6.47,-9.88
+PO000174,2024-07-05,V1067,OilField Safety Partners,Safety & PPE,Middle East,Fixed Price,122006.46,79.3,8.8,86.3,45.7,2.54,13.4
+PO000175,2024-07-11,V1291,Advanced Fluids Ltd,Chemical Supplies,West Africa,Fixed Price,325615.95,79.8,8.8,90.0,8.1,1.8,15.11
+PO000176,2024-07-12,V1311,DeepCore Industries,Drilling Equipment,Gulf Coast,Spot Purchase,1136057.21,83.3,6.8,99.8,4.6,2.71,-1.97
+PO000177,2024-07-13,V1291,Advanced Fluids Ltd,Chemical Supplies,Middle East,Time & Material,251999.17,87.2,6.4,83.9,40.5,2.72,-1.39
+PO000178,2024-07-21,V1466,PetroChemical Supply,Chemical Supplies,Middle East,Time & Material,429647.54,84.0,9.0,83.6,11.2,3.26,-2.31
+PO000179,2024-07-23,V1443,Well Design Partners,Engineering Services,Asia Pacific,Spot Purchase,182655.17,87.4,6.6,80.5,9.1,6.43,-13.71
+PO000180,2024-07-28,V1311,DeepCore Industries,Drilling Equipment,Gulf Coast,Spot Purchase,871294.27,91.3,7.0,90.6,9.0,4.44,7.83
+PO000181,2024-07-29,V1443,Well Design Partners,Engineering Services,Asia Pacific,Fixed Price,642564.4,91.0,9.3,83.6,11.4,,-14.85
+PO000182,2024-07-29,V1138,Reservoir Solutions Inc,Engineering Services,Middle East,Fixed Price,788035.93,84.5,8.6,96.6,22.5,3.21,2.23
+PO000183,2024-08-01,V1451,DrillTech Solutions,Drilling Equipment,Gulf Coast,Framework Agreement,1135558.67,82.3,9.5,94.0,14.2,0.83,-9.75
+PO000184,2024-08-06,V1466,PetroChemical Supply,Chemical Supplies,West Africa,Fixed Price,116016.23,78.2,6.1,88.8,54.5,7.94,17.42
+PO000185,2024-08-09,V1311,DeepCore Industries,Drilling Equipment,West Africa,Spot Purchase,777509.65,75.6,7.4,94.8,15.5,4.9,18.14
+PO000186,2024-08-10,V1443,Well Design Partners,Engineering Services,West Africa,Fixed Price,203855.45,77.0,8.1,97.9,42.9,6.87,-9.1
+PO000187,2024-08-23,V1428,ProTech Safety,Safety & PPE,West Africa,Time & Material,101628.32,75.7,10.0,90.1,11.9,1.79,11.75
+PO000188,2024-08-26,V1128,Continental Carriers,Logistics & Transportation,West Africa,Time & Material,122864.06,91.9,8.6,87.5,9.5,2.99,17.8
+PO000189,2024-09-02,V1196,PetroMax Equipment,Drilling Equipment,North Sea,Spot Purchase,344582.92,76.5,7.4,98.0,15.5,3.77,15.97
+PO000190,2024-09-03,V1291,Advanced Fluids Ltd,Chemical Supplies,West Africa,Spot Purchase,226585.71,76.0,7.5,83.6,55.8,4.86,1.06
+PO000191,2024-09-15,V1110,Equipment Care Plus,Maintenance & Repair,Asia Pacific,Fixed Price,184220.23,92.8,8.9,92.4,13.7,2.87,8.94
+PO000192,2024-09-24,V1443,Well Design Partners,Engineering Services,Asia Pacific,Spot Purchase,267013.05,88.2,9.6,100.0,17.0,1.42,10.84
+PO000193,2024-10-04,V1196,PetroMax Equipment,Drilling Equipment,Asia Pacific,Framework Agreement,222775.74,79.4,7.8,97.0,23.3,2.85,-18.46
+PO000194,2024-10-05,V1091,FieldService Solutions,Maintenance & Repair,Gulf Coast,Time & Material,91047.0,78.6,6.6,91.9,12.3,3.58,2.2
+PO000195,2024-10-06,V1128,Continental Carriers,Logistics & Transportation,Asia Pacific,Time & Material,155958.74,80.4,7.8,87.7,42.6,5.23,13.12
+PO000196,2024-10-07,V1112,PetroMaintenance Corp,Maintenance & Repair,Gulf Coast,Framework Agreement,177633.47,95.1,7.5,80.9,14.7,2.61,-17.94
+PO000197,2024-10-11,V1466,PetroChemical Supply,Chemical Supplies,Asia Pacific,Spot Purchase,438954.44,96.0,6.9,96.4,65.9,1.26,4.36
+PO000198,2024-10-12,V1103,SafeGuard Supply Co,Safety & PPE,West Africa,Framework Agreement,134973.17,75.8,6.6,91.2,13.2,6.31,-10.94
+PO000199,2024-10-13,V1167,GeoPetro Engineering,Engineering Services,Asia Pacific,Spot Purchase,532387.82,97.1,8.6,98.2,44.2,2.7,7.78
+PO000200,2024-10-15,V1138,Reservoir Solutions Inc,Engineering Services,Asia Pacific,Time & Material,239154.33,81.4,9.8,94.2,12.0,3.69,16.39
+PO000201,2024-10-16,V1428,ProTech Safety,Safety & PPE,Middle East,Time & Material,120558.69,89.2,7.4,94.6,29.2,4.77,-0.52
+PO000202,2024-10-16,V1167,GeoPetro Engineering,Engineering Services,West Africa,Framework Agreement,546535.48,85.1,8.8,80.9,42.4,2.68,11.16
+PO000203,2024-10-16,V1167,GeoPetro Engineering,Engineering Services,West Africa,Spot Purchase,410407.28,91.4,6.7,95.4,8.8,2.83,11.81
+PO000204,2024-10-22,V1110,Equipment Care Plus,Maintenance & Repair,West Africa,Time & Material,339164.23,83.2,8.4,89.3,7.9,0.77,-2.77
+PO000205,2024-10-23,V1103,SafeGuard Supply Co,Safety & PPE,Asia Pacific,Fixed Price,82175.33,82.7,9.8,91.6,35.4,3.84,15.67
+PO000206,2024-11-02,V1291,Advanced Fluids Ltd,Chemical Supplies,West Africa,Spot Purchase,398624.66,76.8,6.1,94.0,21.7,4.04,-6.4
+PO000207,2024-11-04,V1110,Equipment Care Plus,Maintenance & Repair,West Africa,Fixed Price,142382.7,91.1,9.8,99.9,4.4,1.57,-7.97
+PO000208,2024-11-13,V1128,Continental Carriers,Logistics & Transportation,West Africa,Spot Purchase,224777.24,80.0,9.4,98.5,41.7,3.71,
+PO000209,2024-11-14,V1067,OilField Safety Partners,Safety & PPE,North Sea,Framework Agreement,192508.49,81.4,9.4,100.0,14.3,1.29,-4.66
+PO000210,2024-11-15,V1112,PetroMaintenance Corp,Maintenance & Repair,Middle East,Spot Purchase,120210.47,90.9,9.0,93.3,9.5,1.89,12.49
+PO000211,2024-11-15,V1311,DeepCore Industries,Drilling Equipment,North Sea,Fixed Price,1134334.06,92.6,6.4,82.1,24.8,0.62,12.86
+PO000212,2024-11-15,V1067,OilField Safety Partners,Safety & PPE,Gulf Coast,Fixed Price,156693.26,75.0,7.8,100.0,68.6,0.81,-4.2
+PO000213,2024-11-15,V1110,Equipment Care Plus,Maintenance & Repair,North Sea,Framework Agreement,254905.38,87.0,,98.2,16.7,3.28,5.96
+PO000214,2024-11-26,V1467,OceanFreight Services,Logistics & Transportation,Gulf Coast,Time & Material,311742.63,95.1,7.0,91.1,15.6,5.64,-1.43
+PO000215,2024-12-02,V1291,Advanced Fluids Ltd,Chemical Supplies,Middle East,Spot Purchase,140855.95,92.2,6.1,88.0,38.4,3.01,-5.11
+PO000216,2024-12-02,V1110,Equipment Care Plus,Maintenance & Repair,Gulf Coast,Framework Agreement,99203.57,92.9,9.2,99.3,17.3,0.27,4.61
+PO000217,2024-12-11,V1467,OceanFreight Services,Logistics & Transportation,North Sea,Fixed Price,132262.94,86.7,8.4,87.9,26.0,3.71,-13.55
+PO000218,2024-12-19,V1291,Advanced Fluids Ltd,Chemical Supplies,Asia Pacific,Spot Purchase,446713.93,80.4,7.2,81.4,46.2,3.5,-3.51
+PO000219,2024-12-25,V1291,Advanced Fluids Ltd,Chemical Supplies,Gulf Coast,Fixed Price,398496.07,94.7,8.1,86.4,69.5,2.13,19.8
+PO000220,2024-12-29,V1444,TransGlobal Logistics,Logistics & Transportation,North Sea,Fixed Price,129846.11,79.4,6.0,100.0,57.2,5.81,
